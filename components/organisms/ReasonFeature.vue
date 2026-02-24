@@ -6,7 +6,7 @@
 		</p>
 		<NuxtImg :src="imgUrl" loading="lazy" :class="[customImageSetting1, customImageSetting2]" alt="reason-feature" />
 		<a :href="linkUrl"
-			class="button block absolute left-[50%] md:left-[50.5%] translate-x-[-50%] bottom-[6.5vw] md:bottom-[31px] w-[32vw] md:w-[160px] h-[8vw] md:h-[40px] flex items-center justify-center drop-shadow-[3px_3px_6px_rgba(0,0,0,0.3)]">
+			class="button block absolute left-[50%] md:left-[50.5%] translate-x-[-50%] bottom-[6.5vw] md:bottom-[31px] w-[32vw] md:w-[160px] h-[8vw] md:h-[40px] flex items-center justify-center content-center drop-shadow-[3px_3px_6px_rgba(0,0,0,0.3)]">
 			<span class="text-smbase md:text-base">詳細を見る</span>
 			<NuxtImg src="/img/arrow.webp" loading="lazy"
 				class="inline absolute right-[2vw] md:right-[10px] top-[50%] translate-y-[-50%] w-[3.2vw] md:w-[16px] h-[1.4vw] md:h-[7px]"

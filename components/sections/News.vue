@@ -45,7 +45,7 @@
 			<AtomsCard class="my-[5.9vw] md:my-[27px] rounded-md">
 				<OrganismsEYSDesc />
 			</AtomsCard>
-			<AtomsCard class="rounded-md mt-[-2vw] md:mt-[10px]">
+			<AtomsCard class="rounded-md mt-[5vw] md:mt-[10px]">
 				<OrganismsEYSAll />
 			</AtomsCard>
 		</div>

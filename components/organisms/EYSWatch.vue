@@ -5,7 +5,7 @@
       alt="bottom-ring" />
     <div class="triangle ml-[33vw] md:ml-[164px] mt-[3vw] md:mt-[15px]"></div>
     <div class="relative overflow-x-clip" :style="{ background: `linear-gradient(to right, #FEEACE, #FFEEE3)` }">
-      <div class="pb-[3.7vw] md:pb-[21px] pt-[1vw] md:pt-[5px]">
+      <div class="pb-[3.9vw] md:pb-[21px] pt-[1vw] md:pt-[5px]">
         <div class="flex justify-center items-end mt-[2.5vw] md:mt-[10px]">
           <NuxtImg src="/img/backslash.webp" loading="lazy" class="w-[4.4vw] md:w-[22px] h-[7vw] md:h-[35px] mb-[1.2vw] md:mb-[4px]"
             alt="backslash" />

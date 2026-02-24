@@ -1,5 +1,5 @@
 <template>
-	<div class="py-[5vw] md:py-[17.5px]">
+	<div class="pt-[3vw] md:pt-[17.5px] pb-[5vw] md:pb-[17.5px]">
 		<h4 class="text-center text-smsub md:text-sub text-[#222222] leading-[6.7vw] md:leading-[32.5px]">
 			老若男女・性別・経験を問わず、<br>幅広くご支持いただいています！
 		</h4>

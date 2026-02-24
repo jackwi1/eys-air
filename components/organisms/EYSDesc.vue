@@ -1,5 +1,5 @@
 <template>
-	<div class="md:pt-[24px]">
+	<div class="pt-[3.3vw] md:pt-[24px]">
 		<h4 class="text-center text-smsub md:text-sub pl-[4.6vw] md:pl-[15px] pr-[4.6vw] md:pr-[15px]">
 			EYS air は全国 68,000 人が通う<br>オンライン総合芸術スクールです！
 		</h4>
@@ -16,7 +16,7 @@
 			</span>
 		</div>
 
-		<NuxtImg src="/img/news/graph.webp" loading="lazy" class="w-[80vw] md:w-[400px] h-[65.5vw] md:h-[328px] pt-[0.7vw] md:pt-[6px] pl-[0vw] md:pl-[0px] pr-[0vw] md:pr-[0px] ml-[5.4vw] md:ml-[27px]"
+		<NuxtImg src="/img/news/graph.webp" loading="lazy" class="w-[80vw] md:w-[400px] h-[65.5vw] md:h-[328px] pt-[1vw] md:pt-[6px] pl-[0vw] md:pl-[0px] pr-[0vw] md:pr-[0px] ml-[5.4vw] md:ml-[27px]"
 			alt="graph" />
 		<p class="relative top-[-5.6vw] md:top-[-28px] text-smbase md:text-base font-light pl-[4.6vw] md:pl-[20px] pr-[4.6vw] md:pr-[20px] mb-[-2vw] md:mb-[-10px]">
 			オンラインレッスンを独自の視点で再構築し、立ち上げ依頼、圧倒的な会員数の伸びを誇っています。
